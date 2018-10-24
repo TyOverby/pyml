@@ -8,9 +8,9 @@
 *.inc
 /generate
 /pyml.h
-/pyml_libdir.ml
-/pyml_compat.ml
-/pyml_arch.ml
-/pywrappers.mli
-/pywrappers.ml
+# /pyml_libdir.ml
+# /pyml_compat.ml
+# /pyml_arch.ml
+# /pywrappers.mli
+# /pywrappers.ml
 /pymlutop
